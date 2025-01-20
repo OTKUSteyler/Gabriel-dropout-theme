@@ -18,10 +18,10 @@
         "BACKGROUND_PRIMARY": ["#35242E"],
         "BACKGROUND_SECONDARY": ["#3F2D36"],
         "BACKGROUND_FLOATING": ["#4A3D44"],
-        "ICON_PRIMARY": ["#F9E79F"],  // For regular icons
-        "ICON_HOVER": ["#FFD1DC"],    // For hover state
-        "ICON_ACTIVE": ["#D63C3C"],   // For active state
-        "ICON_MUTED": ["#B08C80"],    // For muted or secondary icons
+        "ICON_PRIMARY": ["#F9E79F"],  
+        "ICON_HOVER": ["#FFD1DC"],    
+        "ICON_ACTIVE": ["#D63C3C"],  
+        "ICON_MUTED": ["#B08C80"],    
         "SCROLLBAR_THIN_THUMB": ["#F9E79F"],
         "SCROLLBAR_THIN_TRACK": ["transparent"]
     },
