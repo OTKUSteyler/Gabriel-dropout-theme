@@ -8,22 +8,27 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": ["#F9E79F"], 
-        "HEADER_SECONDARY": ["#D63C3C"], 
-        "TEXT_NORMAL": ["#FFF6F8"], 
-        "TEXT_IMPORTANT": ["#D63C3C"], 
-        "INTERACTIVE_NORMAL": ["#F9E79F"], 
-        "INTERACTIVE_HOVER": ["#D63C3C"], 
-        "INTERACTIVE_ACTIVE": ["#F4A8B5"], 
-        "BACKGROUND_PRIMARY": ["#35242E"], 
-        "BACKGROUND_ACCENT": ["#F9E79F"], 
-        "BACKGROUND_FLOATING": ["#D63C3C"], 
-        "SCROLLBAR_THIN_THUMB": ["#F9E79F"], 
+        "HEADER_PRIMARY": ["#F9E79F"],
+        "HEADER_SECONDARY": ["#D63C3C"],
+        "TEXT_NORMAL": ["#FFF6F8"],
+        "TEXT_IMPORTANT": ["#D63C3C"],
+        "INTERACTIVE_NORMAL": ["#F9E79F"],
+        "INTERACTIVE_HOVER": ["#D63C3C"],
+        "INTERACTIVE_ACTIVE": ["#F4A8B5"],
+        "BACKGROUND_PRIMARY": ["#35242E"],
+        "BACKGROUND_SECONDARY": ["#3F2D36"],
+        "BACKGROUND_FLOATING": ["#4A3D44"],
+        "ICON_PRIMARY": ["#F9E79F"],  // For regular icons
+        "ICON_HOVER": ["#FFD1DC"],    // For hover state
+        "ICON_ACTIVE": ["#D63C3C"],   // For active state
+        "ICON_MUTED": ["#B08C80"],    // For muted or secondary icons
+        "SCROLLBAR_THIN_THUMB": ["#F9E79F"],
         "SCROLLBAR_THIN_TRACK": ["transparent"]
     },
     "rawColors": {
-        "PRIMARY_500": "#F9E79F", 
+        "PRIMARY_500": "#F9E79F",
         "PRIMARY_600": "#D63C3C"
+    
     },
     "spec": 2
 }
