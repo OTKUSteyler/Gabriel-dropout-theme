@@ -1,3 +1,74 @@
+fixed formatting for ya xD
+```json
+{
+    "name": "Gabriel Dropout-Theme",
+    "description": "A theme inspired by Gabriel Dropout, featuring Soft Gold and Crimson Red.",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#F9E79F"
+        ],
+        "HEADER_SECONDARY": [
+            "#D63C3C"
+        ],
+        "TEXT_NORMAL": [
+            "#FFF6F8"
+        ],
+        "TEXT_IMPORTANT": [
+            "#D63C3C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#F9E79F"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#D63C3C"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F4A8B5"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#35242E"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#3F2D36"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#4A3D44"
+        ],
+        "ICON_PRIMARY": [
+            "#F9E79F"
+        ],
+        "ICON_HOVER": [
+            "#FFD1DC"
+        ],
+        "ICON_ACTIVE": [
+            "#D63C3C"
+        ],
+        "ICON_MUTED": [
+            "#B08C80"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#F9E79F"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#F9E79F",
+        "PRIMARY_600": "#D63C3C"
+    },
+    "spec": 2
+}
+```
+
+this is what it was
+```json
 {
     "name": "Gabriel Dropout-Theme",
     "description": "A theme inspired by Gabriel Dropout, featuring Soft Gold and Crimson Red.",
@@ -32,3 +103,4 @@
     },
     "spec": 2
 }
+```
